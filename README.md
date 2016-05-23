@@ -17,7 +17,7 @@ Provide code examples and explanations of how to get the project.
 
 1. Clone the project
 
-$ git clone git@gitlab.octo.com:aboileau/fizzbuzz.git
+$ git clone git@github.com:realumy/As.git
 
 $ cd fizzbuzz
 
@@ -28,6 +28,8 @@ $ gem install cocoapods
 3. Install the project dependencies
 
 $ pod install
+
+4. Open the As.xcworkspace project with your IDE
 
 
 ## API Reference
