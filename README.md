@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ## Synopsis
 
 An application named As. 
